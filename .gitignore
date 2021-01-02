@@ -7,3 +7,4 @@ target
 .project
 core/doc
 toolkit/doc
+.DS_Store
